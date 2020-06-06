@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547054288514",
+    "firebase_url": "https://pothole-fixit.firebaseio.com",
+    "project_id": "pothole-fixit",
+    "storage_bucket": "pothole-fixit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547054288514:android:7671a31a444d35b13ffe9b",
+        "android_client_info": {
+          "package_name": "com.example.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547054288514-8ug0r7n6cbp49adpkgjlbhamshnrahgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sample",
+            "certificate_hash": "051fc3548f10e1b686e0270ef2403f3b7b057e13"
+          }
+        },
+        {
+          "client_id": "547054288514-dauebn9lc8jn75aegamu6s9elks0dmh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeXuJvNzG5edgznlbEVtxzmiE3ygeezQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547054288514-dauebn9lc8jn75aegamu6s9elks0dmh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
