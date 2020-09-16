@@ -27,4 +27,4 @@ We used Faster-RCNN model for detecting of pothole and created .model file and u
 
 
 
-<img src = "/assets/t1.jpeg" width="500" height="500"/>
+<img src = "/assets/t1.jpeg" width="700" height="500"/>
