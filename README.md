@@ -15,8 +15,9 @@ The app is primarily in Java and is tighly coupled as it was developed as a proj
 
 Complaint Status can also be seen in our App.
 
+<center>
 <img src = "/assets/viewpot.jpeg" width="235" height="500"/>
-
+<center>
 
 
 
@@ -25,6 +26,3 @@ Complaint Status can also be seen in our App.
 We used Faster-RCNN model for detecting of pothole and created .model file and using tflite deployed it on Android App. 
 
 
-
-
-<img src = "/assets/t1.jpeg" width="700" height="500"/>
